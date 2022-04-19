@@ -1,11 +1,13 @@
 # TransOMCS
 
-
+## Description
+Commonsense knowledge acquisition is a key problem for artificial intelligence. Conventional methods of acquiring commonsense knowledge generally require laborious and costly human annotations, which are not feasible on a large scale. In this paper, we explore a practical way of mining commonsense knowledge from linguistic graphs, with the goal of transferring cheap knowledge obtained with linguistic patterns into expensive commonsense knowledge. The result is a conversion of ASER, a large-scale selectional preference knowledge resource, into TransOMCS, of the same representation as ConceptNet but two orders of magnitude larger. Experimental results demonstrate the transferability of linguistic knowledge to commonsense knowledge and the effectiveness of the proposed approach in terms of quantity, novelty, and quality. TransOMCS is publicly available.
 This is the github repo for IJCAI 2020 paper ["TransOMCS: From Linguistic Graphs to Commonsense Knowledge"](https://arxiv.org/abs/2005.00206).
 
 ## Dependency
 
-Python 3.6, Pytorch 1.0
+- Python 3.6
+- Pytorch 1.0
 
 
 ## Introduction of TransOMCS
